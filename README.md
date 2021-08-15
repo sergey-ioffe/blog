@@ -1,4 +1,4 @@
-# Блог (rus) 
+# Блог
   
 Blogger: https://sergey-ioffe.blogspot.com  
 WordPress: https://ioffe.home.blog  
